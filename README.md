@@ -51,7 +51,6 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
 <img width="1032" height="845" alt="image" src="https://github.com/user-attachments/assets/e3d699e7-266b-46d1-9db9-c431fd8df2ab" />
 
 
@@ -67,10 +66,3 @@ Developed by:
 RegisterNumber:  
 */
 ```
-
-## Output:
-![best fit line](sam.png)
-
-
-## Result:
-Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
